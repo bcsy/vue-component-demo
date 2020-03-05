@@ -1,2 +1,2 @@
-# vue-conponent-demo
+# vue-component-demo
 Custom component library based on elementui
